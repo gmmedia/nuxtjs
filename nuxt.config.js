@@ -41,7 +41,9 @@ export default {
   */
   modules: [
     // Doc: https://bootstrap-vue.js.org
-    'bootstrap-vue/nuxt',
+    // 'bootstrap-vue/nuxt',
+    // Doc: https://vuetifyjs.com/en/getting-started/quick-start/
+    '@nuxtjs/vuetify',
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios'
   ],
