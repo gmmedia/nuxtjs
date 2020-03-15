@@ -2,5 +2,5 @@
   "date": "2020-03-15T21:04:46.410Z",
   "title": "First post",
   "description": "Mein erster Neflify CMS Post",
-  "body": "Endlich geht es los!\n\nMein erster *Post* mit dem Netlify CMS."
+  "body": "![Test Bild](/img/wprocket.png)\n\nEndlich geht es los!\n\nMein erster *Post* mit dem Netlify CMS."
 }
