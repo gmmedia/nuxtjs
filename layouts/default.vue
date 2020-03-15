@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar app fixed color="white" min-height="64px">
+    <v-app-bar app color="white" min-height="64px">
       <v-toolbar-title>Title</v-toolbar-title>
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-sm-and-down">

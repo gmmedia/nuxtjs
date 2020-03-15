@@ -1,6 +1,6 @@
 
 export default {
-  mode: 'universal',
+  mode: 'static',
   /*
   ** Headers of the page
   */
@@ -45,14 +45,14 @@ export default {
     // Doc: https://vuetifyjs.com/en/getting-started/quick-start/
     '@nuxtjs/vuetify',
     // Doc: https://axios.nuxtjs.org/usage
-    '@nuxtjs/axios'
+    //'@nuxtjs/axios'
   ],
   /*
   ** Axios module configuration
   ** See https://axios.nuxtjs.org/options
   */
-  axios: {
-  },
+  //axios: {
+  //},
   /*
   ** Build configuration
   */
